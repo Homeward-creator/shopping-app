@@ -1,0 +1,16 @@
+{
+  "appTitle": "Shopping App",
+  "shoppingCartAppBarLabel": "Cart",
+  "shoppingCartEmptyCartLabel": "Empty Cart",
+  "shoppingCartGoToShoppingLabel": "Go to shopping",
+  "shoppingCartSubtotalLabel": "Subtotal",
+  "shoppingCartPromotionDiscountLabel": "Promotion discount",
+  "shoppingCartCheckoutLabel": "Checkout",
+  "shoppingCartCheckOutErrorLabel": "Something went wrong",
+  "shoppingListSomethingWentWrongLabel": "Something went wrong",
+  "shoppingListRefreshLabel": "Refresh",
+  "shoppingListRecommendedProductLabel": "Recommended Product",
+  "shoppingListLatestProductLabel": "Latest Product",
+  "shoppingListShoppingNavBarLabel": "Shopping",
+  "shoppingListCartNavBarLabel": "Cart"
+}
